@@ -30,7 +30,7 @@ The project follows the **Medallion Architecture**:
 - `gold_condition_summary`
 - `gold_hospital_summary`
 - `gold_insurance_summary`
-
+```text
 ## Repository
 notebooks/
 ├── 01_Bronze_Ingestion.py
