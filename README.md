@@ -32,8 +32,6 @@ The project follows the **Medallion Architecture**:
 - `gold_insurance_summary`
 
 ## Repository
-
-```text\
 notebooks/
 ├── 01_Bronze_Ingestion.py
 ├── 02_Silver_Transformation.py
