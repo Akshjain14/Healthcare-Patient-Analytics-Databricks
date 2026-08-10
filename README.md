@@ -2,6 +2,8 @@
 
 An end-to-end healthcare data engineering project built using **Databricks, PySpark, Spark SQL, and Delta Lake**.
 
+**[View Live Dashboard →](https://dbc-0cca5194-f832.cloud.databricks.com/dashboardsv3/01f194de50e21c99a54c0cbd7dcb12ec/published?o=7474652573665199)**
+
 The project follows the **Medallion Architecture**:
 
 **Raw Data → Bronze → Silver → Gold → Dashboard**
@@ -29,11 +31,9 @@ The project follows the **Medallion Architecture**:
 - `gold_hospital_summary`
 - `gold_insurance_summary`
 
-**[View Live Dashboard →](https://dbc-0cca5194-f832.cloud.databricks.com/dashboardsv3/01f194de50e21c99a54c0cbd7dcb12ec/published?o=7474652573665199)**
-
 ## Repository
 
-```text
+```text\
 notebooks/
 ├── 01_Bronze_Ingestion.py
 ├── 02_Silver_Transformation.py
@@ -41,7 +41,7 @@ notebooks/
 
 dashboard/
 └── healthcare-dashboard.png
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Author
 Aksh Jain
 B.Tech Computer Science & Engineering
