@@ -2,8 +2,6 @@
 
 An end-to-end healthcare data engineering project built using **Databricks, PySpark, Spark SQL, and Delta Lake**.
 
-**[View Live Dashboard →](https://dbc-0cca5194-f832.cloud.databricks.com/dashboardsv3/01f194de50e21c99a54c0cbd7dcb12ec/published?o=7474652573665199)**
-
 The project follows the **Medallion Architecture**:
 
 **Raw Data → Bronze → Silver → Gold → Dashboard**
